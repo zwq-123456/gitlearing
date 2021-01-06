@@ -1,2 +1,4 @@
 The first day of GIT study
 文件修改了
+文件第二次修改
+error12
